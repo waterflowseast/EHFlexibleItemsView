@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHFlexibleItemsView_Example' do
+  pod 'EHFlexibleItemsView', :path => '../'
+
+  target 'EHFlexibleItemsView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
