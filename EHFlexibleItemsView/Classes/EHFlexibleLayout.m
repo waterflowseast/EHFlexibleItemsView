@@ -61,7 +61,7 @@
         return 0;
     }
     
-    NSInteger count;
+    NSInteger count = 0;
     for (int i = 0; i < self.rowIndexes.count; i++) {
         if (row == [self.rowIndexes[i] integerValue]) {
             count += 1;
