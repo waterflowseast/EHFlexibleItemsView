@@ -5,11 +5,26 @@
 [![License](https://img.shields.io/cocoapods/l/EHFlexibleItemsView.svg?style=flat)](http://cocoapods.org/pods/EHFlexibleItemsView)
 [![Platform](https://img.shields.io/cocoapods/p/EHFlexibleItemsView.svg?style=flat)](http://cocoapods.org/pods/EHFlexibleItemsView)
 
+## Summary
+
+EHFlexibleItemsView: a view which arranges different-width item views line by line.
+
+EHFlexibleItemsSelectionView: selection version of EHFlexibleItemsView, you can single-select or multiple-select
+
+## Screenshots
+
+![](https://github.com/waterflowseast/EHFlexibleItemsView/raw/master/screenshots/1.png)
+![](https://github.com/waterflowseast/EHFlexibleItemsView/raw/master/screenshots/2.png)
+![](https://github.com/waterflowseast/EHFlexibleItemsView/raw/master/screenshots/3.png)
+![](https://github.com/waterflowseast/EHFlexibleItemsView/raw/master/screenshots/4.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 7.0+
 
 ## Installation
 
