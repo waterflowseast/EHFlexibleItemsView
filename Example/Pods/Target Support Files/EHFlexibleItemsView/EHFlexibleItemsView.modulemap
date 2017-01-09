@@ -1,0 +1,6 @@
+framework module EHFlexibleItemsView {
+  umbrella header "EHFlexibleItemsView-umbrella.h"
+
+  export *
+  module * { export * }
+}

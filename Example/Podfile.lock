@@ -1,0 +1,16 @@
+PODS:
+  - EHFlexibleItemsView (0.1.0)
+
+DEPENDENCIES:
+  - EHFlexibleItemsView (from `../`)
+
+EXTERNAL SOURCES:
+  EHFlexibleItemsView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EHFlexibleItemsView: 568fb3f7bf0c591605a3b528be0aa8b7841b4d37
+
+PODFILE CHECKSUM: e2a5aed9b16d95410a126a7402df1706ffc3b333
+
+COCOAPODS: 1.0.0
